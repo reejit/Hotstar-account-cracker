@@ -5,7 +5,6 @@ import re
 import sys
 import threading
 
-import requests
 
 output = ""
 usetor = False
